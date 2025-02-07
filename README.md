@@ -2,6 +2,7 @@
 
 Features:
 1.Token based user authentication
+
 2.Submenu support in sidebar
 3.Store management using redux toolkit
 4.Daisy UI components and Tailwind support
