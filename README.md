@@ -1,14 +1,15 @@
 # ReactAdminDashboard
 
 Features:
-1.Token based user authentication
 
-2.Submenu support in sidebar
+1. Token based user authentication
 
-3.Store management using redux toolkit
+2. Submenu support in sidebar
 
-4.Daisy UI components and Tailwind support
+3. Store management using redux toolkit
 
-5.Right and left sidebar, Universal loader, notifications
+4. Daisy UI components and Tailwind support
 
-6.Calendar, global modal, chart js 2 and other components
+5. Right and left sidebar, Universal loader, notifications
+
+6. Calendar, global modal, chart js 2 and other components
